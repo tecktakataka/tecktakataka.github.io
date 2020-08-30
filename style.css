@@ -1,0 +1,27 @@
+h1 {
+	color: blue;
+	font-size: 15px;
+}
+
+p {
+	font-size: 9px;
+	background-color: red; 
+	line-height: 3em;
+	text-align: justify;
+}
+
+div {
+	font-size:  9px;
+}
+
+span {
+	background-color:  yellow;
+}
+
+.test {
+	background-color: grey;
+} 
+
+#header {
+	font-size: 30px;
+}
